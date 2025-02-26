@@ -14,6 +14,7 @@ This project is a **Diabetes Prediction System** that uses machine learning tech
   - 🌲 **Decision Tree with Max Depth = 9**
   - 🧠 **Multi-Layer Perceptron (MLP)**
   - 🏋️ **MLP using Standard Scaler**
+  - 🎯 **Support Vector Machine (SVM)**
 - 📈 **Model Evaluation**: Used accuracy, precision, recall, and F1-score to assess model performance.
 
 ## 📂 Dataset
@@ -76,6 +77,7 @@ The following machine learning models were implemented and evaluated:
 | 🌲 Decision Tree (Max Depth = 9)  | 91.83%            | 69.29%           |
 | 🧠 Multi-Layer Perceptron (MLP)   | 74.71%            | 66.14%           |
 | 🏋️ MLP using Standard Scaler      | 83.07%            | 73.23%           |
+| 🎯 Support Vector Machine (SVM)   | 83.66%            | 74.02%           |
 
 ## 🔮 Future Improvements
 
@@ -100,4 +102,3 @@ This project is licensed under the **MIT License**.
 ---
 
 **👨‍💻 Author:** [Pree-om](https://github.com/Pree-om)
-
